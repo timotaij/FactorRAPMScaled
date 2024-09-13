@@ -1,4 +1,4 @@
-Player,Offense,Defense,Ovr,OffTO_multiplied,OReb_multiplied,OTS_multiplied,DefTO_multiplied,DReb_multiplied,DTS_multiplied,season1,season2
+Player,Offense,Defense,Ovr,OffTO_SC,OReb_SC,OTS_SC,DefTO_SC,DReb_SC,DTS_sc,season1,season2
 Stephen Curry,7.11,1.51,8.62,0.34,0.6,5.54,0.34,0.19,1.11,2014,2016
 Draymond Green,3.55,4.91,8.45,0.51,-0.3,3.4,0.97,0.56,3.45,2014,2016
 LeBron James,6.08,2.35,8.43,0.33,0.69,5.2,0.71,0.65,1.18,2014,2016
